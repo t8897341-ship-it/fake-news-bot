@@ -1,4 +1,4 @@
-# fake-news-bot
+# app.py
 import os
 import json
 import requests
